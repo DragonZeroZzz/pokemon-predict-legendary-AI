@@ -4,5 +4,5 @@ This project is machine learning project aim to predict whether a pokemon is leg
 Machine learning model is implemented using tensorflow and keras API.
 
 Created by
-Sorawit Chokphantavee
-SirawitChokphnatavee
+Sorawit Chokphantavee\
+Sirawit Chokphnatavee
